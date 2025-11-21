@@ -27,7 +27,7 @@ A professional, clean React + TypeScript application for user management — bui
 
 ### 1. Clone the repository
 
-git clone https://github.com/YOUR_USERNAME/user-management-app.git
+git clone https://github.com/VandanaM1008/user-management-app.git
 cd user-management-app
 
 
